@@ -13,7 +13,7 @@ that were used in the research reported on in the paper
 
 To cite this software, please cite the [Xiao-Jun Wang, Tao Liu, Weiguo Fan. TGVx: Dynamic Personalized POI Deep Recommendation Model, INFORMS Journal on Computing.](https://pubsonline.informs.org/journal/ijoc) using its DOI and the software itself, using the following DOI.(DOI TBA)
 
-[![DOI](https://zenodo.org/badge/285853815.svg)](https://zenodo.org/badge/latestdoi/285853815)
+[![DOI](https://zenodo.org/badge/574702645.svg)](https://zenodo.org/badge/latestdoi/574702645)
 
 Below is the BibTex for citing this version of the code.
 

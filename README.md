@@ -49,8 +49,7 @@ To run the code, you will need to make sure that you have the following dependen
 
 ## Results
 
-Please view the supplementary material for the paper from the journal website. [INFORMS Journal on
-Computing](https://pubsonline.informs.org/journal/ijoc)
+Please view the Supplemental Material-2021.0010.pdf
 
 ## Replicating
 

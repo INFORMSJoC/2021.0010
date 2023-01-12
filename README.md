@@ -49,8 +49,7 @@ To run the code, you will need to make sure that you have the following dependen
 
 ## Results
 
-Please view the supplementary material for the paper from the journal website. [INFORMS Journal on
-Computing](https://pubsonline.informs.org/journal/ijoc)
+Please view the Supplemental Material-2021.0010.pdf
 
 ## Replicating
 
@@ -67,4 +66,4 @@ We want to thank the editor and anonymous reviewers for their detailed and const
 
 ## Funds
 
-This work is supported by the National Natural Science Foundation of China (Nos.71831003, 72293563, 72172025), Scientific Research Funding Project of the Education Department of Liaoning Province (No.LN2019Q44), and 2022 Basic Scientific Research Project of Liaoning Provincial Department of Education in Universities and Colleges.
+This work is supported by the National Natural Science Foundation of China (Nos.71831003, 72293563, 72172025), the High-level Talent Innovation Team Project of Dalian Science and Technology Talent Innovation Support Policy Project (No.2022RG17), Scientific Research Funding Project of the Education Department of Liaoning Province (No.LN2019Q44), and the Basic Scientific Research Project of Liaoning Provincial Department of Education (No.LJKMZ20221582).

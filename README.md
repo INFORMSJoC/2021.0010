@@ -22,7 +22,7 @@ Below is the BibTex for citing this version of the code.
   author =        {X.J. Wang, T. Liu, and W. Fan},
   publisher =     {INFORMS Journal on Computing},
   title =         {TGVx: Dynamic Personalized POI Deep Recommendation Model, v2021.0010},
-  year =          {2022},
+  year =          {2023},
   doi =           {TBA},
   note =          {available for download at https://github.com/INFORMSJoC/2021.0010},
 }  
@@ -49,7 +49,7 @@ To run the code, you will need to make sure that you have the following dependen
 
 ## Results
 
-Please view the Supplemental Material-2021.0010.pdf
+Please view the Supplemental Material-2021.0010.docx
 
 ## Replicating
 

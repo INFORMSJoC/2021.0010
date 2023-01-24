@@ -49,7 +49,8 @@ To run the code, you will need to make sure that you have the following dependen
 
 ## Results
 
-Please view the Supplemental Material-2021.0010.docx
+Please view the Supplemental Material-2021.0010.docx   
+or the Supplemental Material-2021.0010.pdf 
 
 ## Replicating
 

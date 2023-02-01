@@ -24,7 +24,7 @@ Below is the BibTex for citing this version of the code.
   title =         {TGVx: Dynamic Personalized POI Deep Recommendation Model, v2021.0010},
   year =          {2022},
   doi =           {10.5281/zenodo.7407123},
-  note =          {available for download at https://github.com/INFORMSJoC/2021.0010},
+  note =          {https://github.com/INFORMSJoC/2021.0010},
 }  
 ```
 ## Contact Details

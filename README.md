@@ -11,7 +11,7 @@ that were used in the research reported on in the paper
 
 ## Cite
 
-To cite this software, please cite the [Xiao-Jun Wang, Tao Liu, Weiguo Fan. TGVx: Dynamic Personalized POI Deep Recommendation Model, INFORMS Journal on Computing.](https://pubsonline.informs.org/journal/ijoc) using its DOI and the software itself, using the following DOI.(DOI TBA)
+To cite this software, please cite the [Xiao-Jun Wang, Tao Liu, Weiguo Fan. TGVx: Dynamic Personalized POI Deep Recommendation Model, INFORMS Journal on Computing.](https://pubsonline.informs.org/journal/ijoc) using its DOI and the software itself, using the following DOI.
 
 [![DOI](https://zenodo.org/badge/574702645.svg)](https://zenodo.org/badge/latestdoi/574702645)
 
@@ -23,8 +23,8 @@ Below is the BibTex for citing this version of the code.
   publisher =     {INFORMS Journal on Computing},
   title =         {TGVx: Dynamic Personalized POI Deep Recommendation Model, v2021.0010},
   year =          {2022},
-  doi =           {TBA},
-  note =          {available for download at https://github.com/INFORMSJoC/2021.0010},
+  doi =           {10.5281/zenodo.7407123},
+  note =          {https://github.com/INFORMSJoC/2021.0010},
 }  
 ```
 ## Contact Details
@@ -49,7 +49,7 @@ To run the code, you will need to make sure that you have the following dependen
 
 ## Results
 
-Please view the Supplemental Material-2021.0010.pdf
+Please view Supplemental Material-2021.0010-23.1.27.pdf 
 
 ## Replicating
 

@@ -7,11 +7,11 @@ Computing](https://pubsonline.informs.org/journal/ijoc) under the [MIT License](
 
 The software and data in this repository are a snapshot of the software and data
 that were used in the research reported on in the paper 
-[TGVx: Dynamic Personalized POI Deep Recommendation Model](https://pubsonline.informs.org/journal/ijoc) by X.-J. Wang, T. Liu, and W. Fan. 
+[TGVx: Dynamic Personalized POI Deep Recommendation Model](https://doi.org/10.1287/ijoc.2023.1286) by X.-J. Wang, T. Liu, and W. Fan. 
 
 ## Cite
 
-To cite this software, please cite the [Xiao-Jun Wang, Tao Liu, Weiguo Fan. TGVx: Dynamic Personalized POI Deep Recommendation Model, INFORMS Journal on Computing.](https://pubsonline.informs.org/journal/ijoc) using its DOI and the software itself, using the following DOI.
+To cite this software, please cite the [Xiao-Jun Wang, Tao Liu, Weiguo Fan. TGVx: Dynamic Personalized POI Deep Recommendation Model, INFORMS Journal on Computing.](https://doi.org/10.1287/ijoc.2023.1286) using its DOI and the software itself, using the following DOI.
 
 [![DOI](https://zenodo.org/badge/574702645.svg)](https://zenodo.org/badge/latestdoi/574702645)
 
